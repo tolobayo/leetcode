@@ -4,7 +4,7 @@
  */
 var containsDuplicate = function (nums) {
   const seen = new Set();
-  for (let i = 0; i < nums.length; i++) {
+  for (let num of nums) {
     if (seen.has(nums[i])) {
       return true;
     }
