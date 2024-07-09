@@ -5,6 +5,7 @@ Link: https://leetcode.com/problems/contains-duplicate/
 |   Date   | Language | Level | Difficulty | Duration |  TC  |  SC  |
 | :------: | :------: | :---: | :--------: | :------: | :--: | :--: |
 | 1/1/2024 |    JS    | Easy  |     1      |  15 min  | O(n) | O(n) |
+| 7/9/2024 |    JS    | Easy  |     1      |  10 min  | O(n) | O(n) |
 
 <br>
 
