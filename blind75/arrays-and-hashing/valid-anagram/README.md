@@ -2,9 +2,10 @@
 
 Link: https://leetcode.com/problems/valid-anagram/
 
-|   Date   | Language | Level | Difficulty | Duration |  TC  |  SC  |
-| :------: | :------: | :---: | :--------: | :------: | :--: | :--: |
-| 1/2/2024 |    JS    | Easy  |     3      | 30+ min  | O(n) | O(1) |
+|   Date    | Language | Level | Difficulty | Duration |  TC  |  SC  |
+| :-------: | :------: | :---: | :--------: | :------: | :--: | :--: |
+| 1/2/2024  |    JS    | Easy  |     3      | 30+ min  | O(n) | O(1) |
+| 7/11/2024 |    JS    | Easy  |     1      |  25 min  | O(n) | O(1) |
 
 <br>
 
