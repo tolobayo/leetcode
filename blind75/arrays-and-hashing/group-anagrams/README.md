@@ -5,6 +5,7 @@ Link: https://leetcode.com/problems/group-anagrams/
 |   Date   | Language | Level  | Difficulty | Duration |       TC        |    SC     |
 | :------: | :------: | :----: | :--------: | :------: | :-------------: | :-------: |
 | 1/4/2024 |    JS    | Medium |     2      |  15 min  | O(N \* k log k) | O(N \* k) |
+| 8/5/2024 |    JS    | Medium |     1      |  40 min  |    O(N \* M)    | O(N \* M) |
 
 <br>
 
