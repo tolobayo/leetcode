@@ -5,6 +5,7 @@ Link: https://leetcode.com/problems/top-k-frequent-elements/
 |   Date    | Language | Level  | Difficulty | Duration |     TC     |  SC  |
 | :-------: | :------: | :----: | :--------: | :------: | :--------: | :--: |
 | 1/21/2024 |    JS    | Medium |     3      |  25 min  | O(n log n) | O(n) |
+| 8/7/2024  |    JS    | Medium |     3      |    -     |    O(n)    | O(n) |
 
 <br>
 
