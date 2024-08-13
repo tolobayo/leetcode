@@ -2,9 +2,10 @@
 
 Link: https://leetcode.com/problems/product-of-array-except-self/
 
-|   Date    | Language | Level  | Difficulty | Duration | TC  | SC  |
-| :-------: | :------: | :----: | :--------: | :------: | :-: | :-: |
-| 1/22/2024 |    JS    | Medium |     5      | 30+ min  |  -  |  -  |
+|   Date    | Language | Level  | Difficulty | Duration |  TC  |  SC  |
+| :-------: | :------: | :----: | :--------: | :------: | :--: | :--: |
+| 1/22/2024 |    JS    | Medium |     5      | 30+ min  |  -   |  -   |
+| 8/13/2024 |    JS    | Medium |     4      |    -     | O(n) | O(n) |
 
 <br>
 
